@@ -5,6 +5,11 @@
 #print("sum =",a+b)
 
 # subtraction
+#a = int(input("enter your choice:"))
+#b = int(input("enter your choice:"))
+#print("difference",a-b)
+
+# multiplication
 a = int(input("enter your choice:"))
 b = int(input("enter your choice:"))
-print("difference",a-b)
+print("multiply",a*b)
