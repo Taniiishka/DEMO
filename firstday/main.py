@@ -10,6 +10,11 @@
 #print("difference",a-b)
 
 # multiplication
+#a = int(input("enter your choice:"))
+#b = int(input("enter your choice:"))
+#print("multiply",a*b)
+
+# divide
 a = int(input("enter your choice:"))
 b = int(input("enter your choice:"))
-print("multiply",a*b)
+print("divide",a/b)
